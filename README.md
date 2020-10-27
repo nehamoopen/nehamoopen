@@ -1,16 +1,15 @@
-### Hi there 👋
+# Neha Moopen-@nehamoopen 
 
-<!--
-**nehamoopen/nehamoopen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋  Hello! 
+I'm a Research Data Manager at Utrecht University Library. My academic background is in clinical psychology, and I've previously worked as a university teacher and junior researcher. 
 
-Here are some ideas to get you started:
+I'm super enthusiastic about open science and open source projects + communities :rocket: <br/>
+I've contributed to [Liberate Science](https://www.libscie.org/), [The Turing Way](https://the-turing-way.netlify.app/welcome), and [The Carpentries](https://carpentries.org/). In 2020, I joined the second cohort of the [Open Life Science](https://openlifesci.org/) program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not working, I'd love to be catching up on my non-fiction book collection - but I usually end up watching Netflix :smile: <br/>
+On rare occassions, you might find me hanging out at the local bouldering gym :mountain: 
+
+### :speech_balloon: Get in touch:
+
+* Twitter: https://twitter.com/nehamoopen 
+* Personal site: coming soon!
